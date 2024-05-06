@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Happy Learnnings Everyone </h1>
+   <h1> Bye all </h1>
    
 </form>
