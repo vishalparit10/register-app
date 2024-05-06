@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Happy weekend </h1>
+   <h1> Happy weekendd </h1>
    
 </form>
