@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> This is crazy </h1>
+   <h1> This is freking crazy </h1>
    
 </form>
